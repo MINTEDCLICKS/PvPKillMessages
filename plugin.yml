@@ -1,0 +1,8 @@
+---
+name: PvPKillMessages
+version: 1.0.0
+author: MINTEDCLICKS
+main: MINTEDCLICKS\PvPKillMessages\Main
+description: PvP kill messages by minty#4097
+api: 4.0.0
+...
